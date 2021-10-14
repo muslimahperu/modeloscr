@@ -1,0 +1,15 @@
+{
+   "autoload":{
+   		"psr-4":{
+   				"Lib\\": "Lib/",
+   				"App\\":"App/"
+   		}
+
+
+   },
+
+    "require": {
+        "league/plates": "^3.4",
+        "altorouter/altorouter": "^2.0"
+    }
+}
